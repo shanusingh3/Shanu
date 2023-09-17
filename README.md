@@ -1,4 +1,4 @@
-# LEVY OMOLO (omololevy)
+# Shanu Singh (shanusingh3)
 
 
 <div align="center">
@@ -24,7 +24,8 @@
 <a href="https://www.linkedin.com/in/shanusingh3/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="mailto:iamshanusingh@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp; <br>
 <a href="https://stackoverflow.com/users/7155874/shanu-singh">
-  <img src="https://img.shields.io/badge/Stack%20Overflow-%2338B000?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow" />
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+            
 </a>&nbsp;
 
 
@@ -43,12 +44,10 @@
 <div align="center">
 
 ## 🎓📚 Education 
-![](https://img.shields.io/badge/maseno_universty-87CF3E?style=for-the-badge&logo=maseno&logoColor=white)
-  ![](https://img.shields.io/badge/moringa_school-430098?style=for-the-badge&logo=moringas_chool&logoColor=orange)
- ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE) ![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![](https://img.shields.io/badge/Kaggle-fff?style=for-the-badge&logo=Kaggle&logoColor=#0077B6) ![](https://img.shields.io/badge/codewars-9e2a2b?style=for-the-badge&logo=codewars&logoColor=white)
- 
+![](https://img.shields.io/badge/GITM[MDU%20UNIVERSITY]-87CF3E?style=for-the-badge&logo=maseno&logoColor=white)
+  ![](https://img.shields.io/badge/LIS[CBSE]-430098?style=for-the-badge&logo=moringas_chool&logoColor=orange)
+ ![](https://img.shields.io/badge/DUCAT-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) 
  ![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
-
 </div>
 
 
@@ -64,16 +63,18 @@
       </tr>
     </thead>
     <tr>
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
     </tr>
     <tr> 
-      <td align="center" width=110>Python</td>
+      <td align="center" width=110>ReactNative</td>
       <td align="center" width=110>JavaScript</td>
       <td align="center" width=110>Typescript</td>
+      <td align="center" width=110>Swift</td>
       <td align="center" width=110>CSS</td>
       <td align="center" width=110>HTML</td>
     </tr>
