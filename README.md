@@ -21,23 +21,22 @@
 
 <div align="center"> Social and Contact Info. </div><br>
   <p align="center">
-<a href="https://levy-omolo.herokuapp.com/"><img src="https://img.shields.io/badge/PORTFOLIO-fff?style=for-the-badge&logo=googlechrome&logoColor=blue" alt="Portfolio" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/levy-omolo/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
-<a href="mailto:cotechlevy@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp; <br>
-<a href="https://twitter.com/kaylor254"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://www.hackerrank.com/levy_omolo"><img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Dev.to" /></a>&nbsp;
-<a href="https://www.researchgate.net/profile/Levy-Omolo-2"><img src="https://img.shields.io/badge/researchgate-4c334d?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/shanusingh3/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
+<a href="mailto:iamshanusingh@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp; <br>
+<a href="https://stackoverflow.com/users/7155874/shanu-singh">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-%2338B000?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow" />
+</a>&nbsp;
 
-<a href="https://docs.google.com/document/d/15PXlkE-0aQZxIheTUT4qcEKU6Oy2F5wPQ3AtoF8yIOY/edit?usp=sharing"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
+
+<a href="https://docs.google.com/document/d/16rJibgHCdAI0G2DKeT-br4rY0gGeYsz0nqJGKpOtgFQ/edit?usp=sharing"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=doc&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
 </p><br>
 
 <!-- BADGES -->
 <p align="center">
-<img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
-<img src="https://img.shields.io/badge/Hobby-Coding-blue" />
-<img src="https://img.shields.io/badge/Programming-Python%2C%20JavaScript-blue" />
-<img src="https://img.shields.io/badge/Lives-Nairobi-blue" />
-<img src="https://img.shields.io/badge/Language-English%2C%20Swahili-blue" />
+<img src="https://img.shields.io/badge/Interest-Mobile%20Development,User%20Experience-blue" />
+  <img src="https://img.shields.io/badge/Programming-JavaScript,React Native,Swift,Node.js-blue" />
+  <img src="https://img.shields.io/badge/Lives-Banglore-blue" />
+  <img src="https://img.shields.io/badge/Languages-English%2C%20Hindi-blue" />
 </p><br>
 
 
