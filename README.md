@@ -47,7 +47,6 @@
 ![](https://img.shields.io/badge/GITM[MDU%20UNIVERSITY]-87CF3E?style=for-the-badge&logo=maseno&logoColor=white)
   ![](https://img.shields.io/badge/LIS[CBSE]-430098?style=for-the-badge&logo=moringas_chool&logoColor=orange)
  ![](https://img.shields.io/badge/DUCAT-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) 
- ![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
 </div>
 
 
