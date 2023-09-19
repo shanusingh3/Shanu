@@ -244,10 +244,5 @@
 <img src="https://github-profile-trophy.vercel.app/?username=shanusingh3&margin-w=15&margin-h=15" />
 
 </div>
-<div align="right">
-  
-  ![Snake animation](https://github.com/shanusingh3/shanusingh3/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 ### You like it ! Hey , give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/shanusingh3/shanusingh3/) !
